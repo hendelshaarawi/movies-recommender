@@ -1,2 +1,0 @@
-# movies-recommender
-Movies recommender
